@@ -6,7 +6,7 @@ wallpapers for everyone
      <link rel="icon" type="image/jpg" href="https://images.app.goo.gl/hj2zNS9kSCLWwzRq5">
      <title>my first webpage</title>
      <body style="background-color: aliceblue;">
-      </head>
+   </head>
       <body>
           <main>
                <p>this is my first page</p>
