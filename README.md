@@ -12,7 +12,7 @@ wallpapers for everyone
                <p>this is my first page</p>
           </main>
           <footer>
-               <p> here're a pic of jimin..since i'm trying to put an image</p>  
+               <p> here're some pictures of jimin.</p>  
 <figure>
          <img src="https://w0.peakpx.com/wallpaper/104/881/HD-wallpaper-bts-edit-jimin-park-jimin.jpg"
                width = "500px">
@@ -24,7 +24,7 @@ wallpapers for everyone
      <strong> anime </strong>
 </p>
 <spam>
-     <b> anime wallpapers here</b>
+     <p> anime wallpapers here</p>
 </spam>
 <figure>
     <img src = "https://wallpapercave.com/wp/wp4771870.jpg"
@@ -36,3 +36,4 @@ wallpapers for everyone
 </figure>
      </body>
      </html>
+ 
