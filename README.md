@@ -32,4 +32,4 @@ wallpapers for everyone
                     width="500px">
 </figure>
        </body>
-   </html>
+         </html>
