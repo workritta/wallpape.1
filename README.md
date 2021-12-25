@@ -22,6 +22,10 @@ wallpapers for everyone
 <p><strong> anime </strong></p>
 <spam>
      <p> anime wallpapers here</p>
+ git branch -m main <BRANCH>
+git fetch origin
+git branch -u origin/<BRANCH> <BRANCH>
+git remote set-head origin -a
 </spam>
 <figure>
     <img src = "https://wallpapercave.com/wp/wp4771870.jpg"
